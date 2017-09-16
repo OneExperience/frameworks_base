@@ -1643,6 +1643,9 @@
          not disturb [CHAR LIMIT=60] -->
     <string name="volume_dnd_silent">Volume buttons shortcut</string>
 
+    <!-- volte icon switch -->
+    <string name="status_bar_volte">VoLTE</string>
+
     <!-- SysUI Tuner: Switch to control volume up behavior [CHAR LIMIT=60] -->
     <string name="volume_up_silent">Exit do not disturb on volume up</string>
 
